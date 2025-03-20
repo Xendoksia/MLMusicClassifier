@@ -4,6 +4,7 @@ Made by
 ~ Emel Tuğçe Kara
 ~ Emre Eyüpoğlu
 
+ML program that classifies musics using their Spectograms.
 The images used in the UI should be in a folder named "Sprites".
 .mat file's name should be "ClassificationLearner.mat".
 
